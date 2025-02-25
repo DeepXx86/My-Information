@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I in my life i know only megumin very cute 💖</p>
+<p align="left">In my life i know only megumin very cute 💖</p>
 
 ###
 
