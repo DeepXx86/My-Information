@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I play Roblox,  LOL<br>📚 I hate C# but i like C#<br>🎯 Goals : make megumin ai 😅<br>🎲 Fun fact : megumin is very cute 💘💖</p>
+<p align="left">✨ I play Roblox,  LOL<br>📚 I hate C# but I also like C#<br>🎯 Goals : make a megumin ai 😅<br>🎲 Fun fact : megumin is very cute 💘💖<br>🗃️ Programming languages I like: Python, C#, Rust, Haskell</p>
 
 ###
 
